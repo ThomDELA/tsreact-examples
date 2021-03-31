@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.7bbca517.chunk.css",
-    "main.js": "/myapp/static/js/main.189db784.chunk.js",
-    "main.js.map": "/myapp/static/js/main.189db784.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.f082d4ad.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.f082d4ad.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/myapp/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.aeb8cc35.chunk.js": "/myapp/static/js/2.aeb8cc35.chunk.js",
-    "static/js/2.aeb8cc35.chunk.js.map": "/myapp/static/js/2.aeb8cc35.chunk.js.map",
-    "static/js/3.e46bd76d.chunk.js": "/myapp/static/js/3.e46bd76d.chunk.js",
-    "static/js/3.e46bd76d.chunk.js.map": "/myapp/static/js/3.e46bd76d.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/myapp/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.7bbca517.chunk.css.map": "/myapp/static/css/main.7bbca517.chunk.css.map",
-    "static/js/2.aeb8cc35.chunk.js.LICENSE.txt": "/myapp/static/js/2.aeb8cc35.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/myapp/static/media/logo.6ce24c58.svg"
+    "main.css": "/tsreact-examples/static/css/main.a5903668.chunk.css",
+    "main.js": "/tsreact-examples/static/js/main.e8abb47f.chunk.js",
+    "main.js.map": "/tsreact-examples/static/js/main.e8abb47f.chunk.js.map",
+    "runtime-main.js": "/tsreact-examples/static/js/runtime-main.29f03dcc.js",
+    "runtime-main.js.map": "/tsreact-examples/static/js/runtime-main.29f03dcc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tsreact-examples/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.aeb8cc35.chunk.js": "/tsreact-examples/static/js/2.aeb8cc35.chunk.js",
+    "static/js/2.aeb8cc35.chunk.js.map": "/tsreact-examples/static/js/2.aeb8cc35.chunk.js.map",
+    "static/js/3.e46bd76d.chunk.js": "/tsreact-examples/static/js/3.e46bd76d.chunk.js",
+    "static/js/3.e46bd76d.chunk.js.map": "/tsreact-examples/static/js/3.e46bd76d.chunk.js.map",
+    "index.html": "/tsreact-examples/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tsreact-examples/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a5903668.chunk.css.map": "/tsreact-examples/static/css/main.a5903668.chunk.css.map",
+    "static/js/2.aeb8cc35.chunk.js.LICENSE.txt": "/tsreact-examples/static/js/2.aeb8cc35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tsreact-examples/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f082d4ad.js",
+    "static/js/runtime-main.29f03dcc.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.aeb8cc35.chunk.js",
-    "static/css/main.7bbca517.chunk.css",
-    "static/js/main.189db784.chunk.js"
+    "static/css/main.a5903668.chunk.css",
+    "static/js/main.e8abb47f.chunk.js"
   ]
 }
