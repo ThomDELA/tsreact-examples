@@ -1,0 +1,15 @@
+
+
+#Board{
+    transform: scale(0.8);
+    transform: rotateZ(180deg);
+    transform-origin: center;
+
+}
+
+#IOPins > g:hover rect {
+    /* fill:gray; */
+    transform: scale(1.2);
+    transform-origin: center;
+    transform-box: fill-box;
+}

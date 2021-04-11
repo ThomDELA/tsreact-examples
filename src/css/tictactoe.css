@@ -1,0 +1,83 @@
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid rgb(100, 55, 204);
+  float: left;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 78px;
+  height: 78px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 78px;
+}
+
+.colored {
+  background-color: red;
+}
+
+.square:hover {
+  background: rgb(201, 199, 199);
+}
+
+.square:focus {
+  outline: none;
+}
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.game-board{
+  position:relative;
+  min-width: 240px;
+}
+
+.morpion.btn {
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 45px;
+  max-width: 160px;
+  position: relative;
+  text-decoration: blueviolet;
+  width: 100%;
+  transition-duration: 1s;
+  margin: 0 1em 1em;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 255, 255, 0.11);
+}
+
+.morpion.btn:hover {
+  box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.2);
+  color: #000000;
+  transition: all 0.4s;
+  background-color: rgba(0, 255, 255, 0.507);
+
+}
+
+.morpion.btn::after {
+  background: #e02c26;
+}
+

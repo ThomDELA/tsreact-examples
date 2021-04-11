@@ -1,0 +1,35 @@
+table,
+td {
+    border: 2px solid #ecebeb;
+    max-height: 100vh;
+    max-width: 20em;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+img.dog{
+    max-width: 80vw;
+    max-height: 80vh;
+    max-height: 100vh;
+    /* height: 250px; */
+}
+
+.fetchContainer{
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+
+.fetchContainer > div > h1 {
+    color: var(--main-bg-color);
+}
+
+.fetchContainer > div > h1:hover {
+    color: red;
+}

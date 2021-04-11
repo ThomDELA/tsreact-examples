@@ -1,31 +1,83 @@
-.App {
+:root {
+  --main-bg-color: #282c34;
+  --secondary-bg-color: #072142;
+  --main-text-color: rgb(32, 148, 184);
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background: no-repeat center fixed;
+  background-color: rgb(22, 20, 20);
+  background-image: linear-gradient(0deg,var(--secondary-bg-color) 0%,var(--main-bg-color) 15%,var(--main-bg-color) 100%);
+  background-size: cover;
+}
+
+.thisApp {
+  height: 100%;
+  width: 100%;
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  padding: 0.1em 0.1em;
+  display: flex;
+  flex-direction: column;
+  overflow:visible;
+  flex-wrap: nowrap;
+}
+
+.navbar{
+  left: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  background:var(--secondary-bg-color);
+  border-radius: 5%;
+}
+
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-link{
+  color : white;
+  text-decoration: none;
   text-align: center;
+  white-space: nowrap;
+  margin: 5px 5px;
+  padding: 5px 5px;
+  border-radius: 10%;
 }
 
+.customNav {
+  background-color:var(--secondary-bg-color);
+}
+
+.active {
+  color: black;
+  background-color: beige;
+}
 .App-logo {
-  height: 40vmin;
+  height: 30px;
+  max-height: 50px;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  shape-outside: circle();
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: var(--main-bg-color);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(8px + 2vmin);
+  color: rgb(32, 148, 184);
 }
 
 .App-link {
-  color: #61dafb;
+  color: var(--main-text-color);
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +87,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@keyframes App-logo-trans {
+  from {
+    transform: translate(0, -3vh) rotate(0deg);
+  }
+  to {
+    transform: translate(0vw, 3vh) rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo-home {
+    animation: infinite alternate 10s linear App-logo-spin;
+    animation-timing-function: ease;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .mooving-logo {
+    animation: App-logo-trans infinite 3s linear alternate;
+    /* animation-timing-function: ease; */
+  }
+}
+
+.App-logo-home {
+  height: 120px;
+  pointer-events: none;
+  shape-outside: url(./assets/logo.svg);
+  float: left;
+}
+
+.btn {
+  border: 5em;
+  border-radius: 1rem;
 }

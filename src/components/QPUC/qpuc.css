@@ -1,0 +1,34 @@
+
+.QPUCcontainer {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.Question{
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.Answers {
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    marker: none;
+}
+::marker{
+    marker: none;
+}
+
+.Answers > li {
+    background-color: aliceblue;
+    border-radius: 5%;
+    padding: 0.3rem;
+}

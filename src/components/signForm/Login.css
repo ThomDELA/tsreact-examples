@@ -1,0 +1,53 @@
+.LoginContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  width: 100%;
+}
+
+.formGroup {
+  justify-content: space-between;
+}
+.LoginFormBox {
+    background-color:rgb(14, 41, 49);
+    padding:20px;
+    border: 5em;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    opacity:1;
+    border-radius:2%;
+    width: 50vw;
+    min-width: 15em;
+    max-width: 20em;
+}
+
+div.LoginContainer h2{
+  color: rebeccapurple;
+}
+
+button.Login {
+  border: 50%;
+  /* color: rgb(255, 255, 255); */
+}
+
+button.Login:hover {
+  color: rgb(128, 128, 128);
+  transition: 0.6s;
+}
+
+.btn-disabled {
+  color: rgb(255, 0, 242);
+}
+
+.btn-enabled {
+  color: rgb(16, 253, 107);
+}
+
+.btn {
+  border: 25px;
+  margin: 1em 1em;
+}

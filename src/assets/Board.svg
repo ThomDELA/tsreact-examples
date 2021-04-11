@@ -1,0 +1,188 @@
+<svg width="153" height="536" viewBox="0 0 153 536" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="Board">
+        <rect width="153" height="536" fill="#278D37"/>
+        <g id="IOPins">
+            <g id="IO_1">
+                <rect id="Rectangle 5" x="76.5" y="490.259" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6" x="84.3214" y="495.775" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7" x="86.9286" y="497.614" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_2">
+                <rect id="Rectangle 5_2" x="40" y="490.259" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_2" x="47.8214" y="495.775" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_2" x="50.4286" y="497.614" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_3">
+                <rect id="Rectangle 5_3" x="76.5" y="462.538" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_3" x="84.3214" y="468.054" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_3" x="86.9286" y="469.892" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_4">
+                <rect id="Rectangle 5_4" x="40" y="462.538" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_4" x="47.8214" y="468.054" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_4" x="50.4286" y="469.892" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_5">
+                <rect id="Rectangle 5_5" x="76.5" y="434.817" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_5" x="84.3214" y="440.333" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_5" x="86.9286" y="442.171" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_6">
+                <rect id="Rectangle 5_6" x="40" y="434.817" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_6" x="47.8214" y="440.333" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_6" x="50.4286" y="442.171" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_7">
+                <rect id="Rectangle 5_7" x="76.5" y="407.096" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_7" x="84.3214" y="412.612" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_7" x="86.9286" y="414.45" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_8">
+                <rect id="Rectangle 5_8" x="40" y="407.096" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_8" x="47.8214" y="412.612" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_8" x="50.4286" y="414.45" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_9">
+                <rect id="Rectangle 5_9" x="76.5" y="379.374" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_9" x="84.3214" y="384.89" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_9" x="86.9286" y="386.729" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_10">
+                <rect id="Rectangle 5_10" x="40" y="379.374" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_10" x="47.8214" y="384.89" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_10" x="50.4286" y="386.729" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_11">
+                <rect id="Rectangle 5_11" x="76.5" y="351.653" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_11" x="84.3214" y="357.169" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_11" x="86.9286" y="359.008" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_12">
+                <rect id="Rectangle 5_12" x="40" y="351.653" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_12" x="47.8214" y="357.169" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_12" x="50.4286" y="359.008" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_13">
+                <rect id="Rectangle 5_13" x="76.5" y="323.932" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_13" x="84.3214" y="329.448" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_13" x="86.9286" y="331.287" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_14">
+                <rect id="Rectangle 5_14" x="40" y="323.932" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_14" x="47.8214" y="329.448" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_14" x="50.4286" y="331.287" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_15">
+                <rect id="Rectangle 5_15" x="76.5" y="296.211" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_15" x="84.3214" y="301.727" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_15" x="86.9286" y="303.566" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_16">
+                <rect id="Rectangle 5_16" x="40" y="296.211" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_16" x="47.8214" y="301.727" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_16" x="50.4286" y="303.566" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_17">
+                <rect id="Rectangle 5_17" x="76.5" y="268.49" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_17" x="84.3214" y="274.006" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_17" x="86.9286" y="275.845" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_18">
+                <rect id="Rectangle 5_18" x="40" y="268.49" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_18" x="47.8214" y="274.006" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_18" x="50.4286" y="275.845" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_19">
+                <rect id="Rectangle 5_19" x="76.5" y="240.769" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_19" x="84.3214" y="246.285" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_19" x="86.9286" y="248.124" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_20">
+                <rect id="Rectangle 5_20" x="40" y="240.769" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_20" x="47.8214" y="246.285" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_20" x="50.4286" y="248.124" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_21">
+                <rect id="Rectangle 5_21" x="76.5" y="213.048" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_21" x="84.3214" y="218.564" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_21" x="86.9286" y="220.402" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_22">
+                <rect id="Rectangle 5_22" x="40" y="213.048" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_22" x="47.8214" y="218.564" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_22" x="50.4286" y="220.402" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_23">
+                <rect id="Rectangle 5_23" x="76.5" y="185.327" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_23" x="84.3214" y="190.843" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_23" x="86.9286" y="192.681" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_24">
+                <rect id="Rectangle 5_24" x="40" y="185.327" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_24" x="47.8214" y="190.843" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_24" x="50.4286" y="192.681" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_25">
+                <rect id="Rectangle 5_25" x="76.5" y="157.606" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_25" x="84.3214" y="163.122" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_25" x="86.9286" y="164.96" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_26">
+                <rect id="Rectangle 5_26" x="40" y="157.606" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_26" x="47.8214" y="163.122" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_26" x="50.4286" y="164.96" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_27">
+                <rect id="Rectangle 5_27" x="76.5" y="129.884" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_27" x="84.3214" y="135.4" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_27" x="86.9286" y="137.239" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_28">
+                <rect id="Rectangle 5_28" x="40" y="129.884" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_28" x="47.8214" y="135.4" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_28" x="50.4286" y="137.239" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_29">
+                <rect id="Rectangle 5_29" x="76.5" y="102.163" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_29" x="84.3214" y="107.679" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_29" x="86.9286" y="109.518" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_30">
+                <rect id="Rectangle 5_30" x="40" y="102.163" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_30" x="47.8214" y="107.679" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_30" x="50.4286" y="109.518" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_31">
+                <rect id="Rectangle 5_31" x="76.5" y="74.4423" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_31" x="84.3214" y="79.9582" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_31" x="86.9286" y="81.7968" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_32">
+                <rect id="Rectangle 5_32" x="40" y="74.4423" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_32" x="47.8214" y="79.9582" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_32" x="50.4286" y="81.7968" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_33">
+                <rect id="Rectangle 5_33" x="76.5" y="46.7211" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_33" x="84.3214" y="52.237" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_33" x="86.9286" y="54.0756" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_34">
+                <rect id="Rectangle 5_34" x="40" y="46.7211" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_34" x="47.8214" y="52.237" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_34" x="50.4286" y="54.0756" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_35">
+                <rect id="Rectangle 5_35" x="76.5" y="19" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_35" x="84.3214" y="24.5159" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_35" x="86.9286" y="26.3546" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+            <g id="IO_36">
+                <rect id="Rectangle 5_36" x="40" y="19" width="31.2857" height="22.0637" fill="black"/>
+                <rect id="Rectangle 6_36" x="47.8214" y="24.5159" width="15.6429" height="11.0319" fill="#D9DD22"/>
+                <rect id="Rectangle 7_36" x="50.4286" y="26.3546" width="10.4286" height="7.35458" fill="#BC9A22"/>
+            </g>
+        </g>
+    </g>
+</svg>
