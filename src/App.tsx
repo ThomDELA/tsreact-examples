@@ -42,15 +42,7 @@ export default function App() {
     RPI,
     Home,
   };
-  useEffect(() => {
-    Object.values(pages).map((el) => {
-      console.log(el.name);
-    });
-  });
-  // console.log(Object(pages).entries);
-  // Object(pages)
-  //   .keys()
-  //   .map((el: any) => console.log(el));
+
   return (
     <>
       <div id="AppContainer" className="thisApp">
@@ -73,51 +65,16 @@ export default function App() {
                   </NavLink>
                 );
               })}
-              {/* <NavLink className="nav-link" exact activeClassName="active" to="/">
-                Home
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="morpion">
-                Morpion
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="qpuc">
-                QPUC
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="login">
-                Login
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="authAndGet">
-                auth Get
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="signup">
-                Sign up
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="fetch">
-                Fetch
-              </NavLink>
-              <NavLink className="nav-link" exact activeClassName="active" to="raspberryPage">
-                RPi
-              </NavLink>
-              <NavLink className="nav-link" to="post">
-                Post
-              </NavLink> */}
 
               <MyLogo className="mooving-logo" />
             </Nav>
           </Navbar>
 
           <Switch>
-            {Object.values(pages).map((comp) => {
-              return <Route path={"/" + comp.name} component={comp} />;
+            {Object.values(pages).map((comp, idx) => {
+              return <Route key={idx} path={"/" + comp.name} component={comp} />;
             })}
-            {/* <Route path="/morpion" component={TicTacToeGame} />
-            <Route path="/qpuc" component={Qpuc} />
-            <Route path="/login" component={Login} />
-            <Route path="/signup" component={SignUp} />
-            <Route path="/authAndGet" component={AuthAndGet} />
-            <Route path="/FetchExample" component={FetchExample} />
-            <Route path="/post" component={PostExample} />
-            <Route path="/raspberryPage" component={RPI} />
-            <Route exact path="/" component={Home} /> */}
+            <Route path="/" component={Home} />
           </Switch>
 
           <div> </div>
