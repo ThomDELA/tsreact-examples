@@ -1,9 +1,0 @@
-
-{
-    "questions" : [
-        {"id": 1, "question": "Quelles sont les céréales préférés de Crevette ?", "answers" : ["Chocapic", "Cookie crisp", "trésor", "Muesli"], "correct" : "Cookie crisp"},
-        {"id": 2, "question": "Ou se trouve l'entrée l'azegrothe ?", "answers" : ["Derriere la colline bleu", "Derriere la bibliothèque", "Cookie crisp"], "correct":"Derriere la bibliothèque"},
-        {"question": "Quel était la taille de Confuciuce ?", "answers" : ["6 pieds 4 pouces", "4 mètre 12", "5cm ;) ", "1mètre58"], "correct" : "6 pieds 4 pouces"},
-        {"question": "Dans le premier épisode de Dora l'exploratrice, La grande colline rouge est en fait :", "answers" : ["Un bunker communiste", "Une grande cape rouge qui cache chipster", "Une grosse poule rouge","Un hémoroïde géant"]}
-    ]
-}
