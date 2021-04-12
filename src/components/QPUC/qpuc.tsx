@@ -47,7 +47,7 @@ export default function Qpuc(props: any) {
   return (
     <div className="QPUCcontainer">
       <h1> {title} </h1>
-      {dispQuestion(data, 2)}
+      {dispQuestion(data, Object.entries(data).length - 1)}
     </div>
   );
 }
